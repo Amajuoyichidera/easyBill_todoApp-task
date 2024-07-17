@@ -11,8 +11,9 @@ This is a simple and intuitive todo mobile application for managing your tasks. 
 - Persistent storage using AsyncStorage
 
 ## Screenshots
+![WhatsApp Image 2024-07-17 at 8 11 46 AM](https://github.com/user-attachments/assets/3d757ae1-a714-4cec-959f-592c7ba9ae07)
 
-![Home Screen](./assets/home.png)
+
 
 ## Installation
 
