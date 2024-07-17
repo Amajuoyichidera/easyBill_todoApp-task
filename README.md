@@ -12,7 +12,7 @@ This is a simple and intuitive todo mobile application for managing your tasks. 
 
 ## Screenshots
 
-![Home Screen](./assets/home.png)
+the app Screenshots are in assets
 
 ## Installation
 
